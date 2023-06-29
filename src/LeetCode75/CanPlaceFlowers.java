@@ -14,7 +14,7 @@ There are no two adjacent flowers in flowerbed.
 0 <= n <= flowerbed.length
  */
 
-package Blind75;
+package LeetCode75;
 
 public class CanPlaceFlowers {
     public boolean canPlaceFlowersLinearScan(int[] flowerbed, int n) {

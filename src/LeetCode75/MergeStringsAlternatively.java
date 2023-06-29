@@ -27,7 +27,7 @@ Constraints:
 word1 and word2 consist of lowercase English letters.
  */
 
-package Blind75;
+package LeetCode75;
 
 public class MergeStringsAlternatively {
     public String mergeAlternatively(String word1, String word2) {

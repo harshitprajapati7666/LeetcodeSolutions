@@ -26,7 +26,7 @@ n == candies.length
 1 <= extraCandies <= 50
  */
 
-package Blind75;
+package LeetCode75;
 
 import java.util.ArrayList;
 import java.util.List;

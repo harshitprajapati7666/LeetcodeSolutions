@@ -14,7 +14,7 @@ Constraints:
 1 <= str1.length, str2.length <= 1000
 str1 and str2 consist of English uppercase letters.
  */
-package Blind75;
+package LeetCode75;
 
 public class GreatestCommonDivisorOfStrings {
     public String gcdOfStringsBrute(String str1, String str2) {

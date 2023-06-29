@@ -9,7 +9,7 @@ Input: s = "leetcode"
 Output: "leotcede"
  */
 
-package Blind75;
+package LeetCode75;
 
 public class ReverseVowelsOfAString {
     public String reverseVowelsStringBuilder(String s) {
